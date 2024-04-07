@@ -1,59 +1,11 @@
-[00:36:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:36:09] [ServerMain/INFO]: Loaded 7 recipes
-[00:36:10] [ServerMain/INFO]: Loaded 1271 advancements
-[00:36:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:36:11] [Server thread/INFO]: Loading properties
-[00:36:11] [Server thread/INFO]: Default game type: SURVIVAL
-[00:36:11] [Server thread/INFO]: Generating keypair
-[00:36:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:36:11] [Server thread/INFO]: Using epoll channel type
-[00:36:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:36:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:36:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:36:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:36:11] [Server thread/INFO]: Preparing level "world"
-[00:36:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:36:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:36:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:36:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:36:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:36:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:36:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:36:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:36:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:36:17] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[00:36:18] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[00:36:18] [Server thread/INFO]: Time elapsed: 5077 ms
-[00:36:18] [Server thread/INFO]: Done (7.282s)! For help, type "help"
-[00:36:29] [Server thread/INFO]: deiord44[/92.187.87.59:48530] logged in with entity id 27 at (222.45221525351147, 75.0, 111.2193376040424)
-[00:36:29] [Server thread/INFO]: deiord44 joined the game
-[00:36:30] [Server thread/INFO]: TuTaRdrgZ[/92.178.218.156:51055] logged in with entity id 76 at (213.5071859759635, 75.0, 109.48061173138036)
-[00:36:30] [Server thread/INFO]: TuTaRdrgZ joined the game
-[00:36:33] [Server thread/INFO]: Santito[/139.47.37.13:6004] logged in with entity id 180 at (220.59651420138044, 76.1212968405392, 107.4586827151518)
-[00:36:33] [Server thread/INFO]: Santito joined the game
-[00:36:36] [Server thread/INFO]: Eli[/83.50.55.94:49233] logged in with entity id 182 at (229.80363480989473, 77.16610926093821, 125.13962957705158)
-[00:36:36] [Server thread/INFO]: Eli joined the game
-[00:36:48] [Server thread/INFO]: TuTaRdrgZ has made the advancement [Isn't It Iron Pick]
-[00:37:13] [Server thread/INFO]: [Not Secure] <Santito> aw
-[00:37:24] [Server thread/INFO]: [Not Secure] <TuTaRdrgZ> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[00:37:26] [Server thread/INFO]: [Not Secure] <Santito> zzzzzzzzzzz
-[00:37:27] [Server thread/INFO]: [Not Secure] <Santito> zzzzzzzzzzzz
-[00:37:29] [Server thread/INFO]: [Not Secure] <Santito> zzzzz
-[00:37:30] [Server thread/INFO]: [Not Secure] <Santito> ZZZZZZ
-[00:37:34] [Server thread/INFO]: [Not Secure] <Santito> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[00:37:37] [Server thread/INFO]: [Not Secure] <deiord44> zzzzz
-[00:37:38] [Server thread/INFO]: [Not Secure] <TuTaRdrgZ> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[00:37:42] [Server thread/INFO]: [Not Secure] <TuTaRdrgZ> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[00:38:36] [Server thread/INFO]: deiord44 lost connection: Disconnected
-[00:38:36] [Server thread/INFO]: deiord44 left the game
-[00:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
-[00:38:42] [Server thread/WARN]: Santito moved too quickly! -0.12067227376874712,0.5813359922251635,10.176496569160904
-[00:38:44] [Server thread/INFO]: TuTaRdrgZ lost connection: Disconnected
-[00:38:44] [Server thread/INFO]: TuTaRdrgZ left the game
-[00:38:46] [Server thread/WARN]: Santito moved too quickly! 9.235176826661359,-0.2712241076924897,-4.266614225276626
-[00:38:48] [Server thread/INFO]: Santito lost connection: Disconnected
-[00:38:48] [Server thread/INFO]: Santito left the game
-[00:39:12] [Server thread/INFO]: Eli has made the advancement [Stone Age]
-[00:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3858ms or 77 ticks behind
-[00:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
+[00:00:21] [Server thread/INFO]: [TuTaRdrgZ: Teleported TuTaRdrgZ to 316.188330, 150.000000, 112.231109]
+[00:00:21] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 0.0,78.0,0.0
+[00:02:31] [Server thread/INFO]: TuTaRdrgZ has made the advancement [Take Aim]
+[00:05:21] [Server thread/INFO]: TuTaRdrgZ lost connection: Disconnected
+[00:05:21] [Server thread/INFO]: TuTaRdrgZ left the game
+[00:05:40] [Server thread/INFO]: deiord44 lost connection: Disconnected
+[00:05:40] [Server thread/INFO]: deiord44 left the game
+[00:05:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:05:41] [Server thread/INFO]: exit<--[HERE]
+[00:05:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:05:44] [Server thread/INFO]: quit<--[HERE]
