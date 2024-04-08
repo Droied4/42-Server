@@ -1,11 +1,389 @@
-[00:00:21] [Server thread/INFO]: [TuTaRdrgZ: Teleported TuTaRdrgZ to 316.188330, 150.000000, 112.231109]
-[00:00:21] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 0.0,78.0,0.0
-[00:02:31] [Server thread/INFO]: TuTaRdrgZ has made the advancement [Take Aim]
-[00:05:21] [Server thread/INFO]: TuTaRdrgZ lost connection: Disconnected
-[00:05:21] [Server thread/INFO]: TuTaRdrgZ left the game
-[00:05:40] [Server thread/INFO]: deiord44 lost connection: Disconnected
-[00:05:40] [Server thread/INFO]: deiord44 left the game
-[00:05:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:05:41] [Server thread/INFO]: exit<--[HERE]
-[00:05:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:05:44] [Server thread/INFO]: quit<--[HERE]
+[00:00:07] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:00:07] [Server thread/INFO]: Santito was slain by Vindicator
+[00:00:09] [Server thread/WARN]: Santito moved too quickly! 189.4548096712536,17.0,21.255704454459675
+[00:00:24] [Server thread/INFO]: geo4ghe8 has made the advancement [Ice Bucket Challenge]
+[00:00:56] [Server thread/INFO]: Santito was shot by Skeleton
+[00:01:03] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:01:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.01249998807907,15.0,10.667654546572152
+[00:01:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.01249998807907,15.0,10.667654546572152
+[00:01:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.01249998807907,15.0,10.667654546572152
+[00:01:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.01249998807907,15.0,10.667654546572152
+[00:01:45] [Server thread/INFO]: geo4ghe8 has made the advancement [Cover Me with Diamonds]
+[00:02:07] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:02:08] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.4002995397387,15.0,12.076187066372583
+[00:02:08] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.4002995397387,15.0,12.076187066372583
+[00:02:08] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.4002995397387,15.0,12.076187066372583
+[00:02:08] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.4002995397387,15.0,12.076187066372583
+[00:02:08] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.4002995397387,15.0,12.076187066372583
+[00:02:08] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.4002995397387,15.0,12.076187066372583
+[00:02:08] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 188.4002995397387,15.0,12.076187066372583
+[00:03:25] [Server thread/INFO]: geo4ghe8 was slain by Zombie
+[00:03:26] [Server thread/WARN]: geo4ghe8 moved too quickly! 26.763710849447335,5.091024175474637,45.33668982077123
+[00:05:00] [Server thread/INFO]: geo4ghe8 was shot by Pillager
+[00:05:38] [Server thread/INFO]: geo4ghe8 has made the advancement [Ol' Betsy]
+[00:06:38] [Server thread/INFO]: [Not Secure] <geo4ghe8> te regalaste con ese espadon
+[00:06:54] [Server thread/INFO]: [Not Secure] <Santito> te rega;aste con la pechera
+[00:07:18] [Server thread/INFO]: Santito was slain by Vex
+[00:07:25] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:07:44] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:07:49] [Server thread/INFO]: Santito was slain by Vindicator
+[00:07:54] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:08:08] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:08:25] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:08:39] [Server thread/INFO]: Santito was slain by Vex
+[00:08:40] [Server thread/WARN]: Santito moved too quickly! 162.9193923039455,16.0,-19.05099961376456
+[00:08:50] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:08:57] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:11:29] [Server thread/INFO]: geo4ghe8 lost connection: Disconnected
+[00:11:29] [Server thread/INFO]: geo4ghe8 left the game
+[00:12:02] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:12:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -40.298650060442355,1.0,-25.312680266212368
+[00:12:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -40.298650060442355,1.0,-25.312680266212368
+[00:12:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -40.298650060442355,1.0,-25.312680266212368
+[00:12:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -40.298650060442355,1.0,-25.312680266212368
+[00:12:04] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -40.298650060442355,1.0,-25.312680266212368
+[00:12:45] [Server thread/INFO]: Santito was slain by Vindicator
+[00:13:52] [Server thread/INFO]: Santito was slain by Vex
+[00:14:19] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:14:25] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:14:42] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:14:46] [Server thread/INFO]: Santito was slain by Vindicator
+[00:14:49] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:14:56] [Server thread/INFO]: TuTaRdrgZ was shot by Pillager
+[00:15:06] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:15:11] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:15:17] [Server thread/INFO]: TuTaRdrgZ was shot by Pillager
+[00:15:30] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:15:31] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -39.4030551147425,0.0,-12.394856780958676
+[00:15:31] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -39.4030551147425,0.0,-12.394856780958676
+[00:15:40] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:16:26] [Server thread/INFO]: Santito was slain by Vindicator
+[00:16:47] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:16:49] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -14.830221339147613,-8.0,21.58912076316271
+[00:16:49] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -14.830221339147613,-8.0,21.58912076316271
+[00:16:52] [Server thread/INFO]: TuTaRdrgZ was shot by Pillager
+[00:16:58] [Server thread/INFO]: TuTaRdrgZ was shot by Pillager
+[00:17:05] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:17:07] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -12.983355776118145,1.0,-9.04283128844618
+[00:17:07] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -12.983355776118145,1.0,-9.04283128844618
+[00:17:18] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:17:19] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -44.402483761942705,-2.0,-4.800000011920929
+[00:17:19] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -44.402483761942705,-2.0,-4.800000011920929
+[00:17:19] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -44.402483761942705,-2.0,-4.800000011920929
+[00:17:19] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -44.402483761942705,-2.0,-4.800000011920929
+[00:17:19] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -44.402483761942705,-2.0,-4.800000011920929
+[00:17:19] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -44.402483761942705,-2.0,-4.800000011920929
+[00:17:19] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -44.402483761942705,-2.0,-4.800000011920929
+[00:17:35] [Server thread/INFO]: Santito was slain by Vex
+[00:18:30] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:18:31] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -42.52582024764314,1.0625,-20.80000001192093
+[00:18:31] [Server thread/WARN]: TuTaRdrgZ moved too quickly! -42.52582024764314,1.0625,-20.80000001192093
+[00:18:37] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:18:43] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:18:50] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:19:01] [Server thread/INFO]: Santito has reached the goal [Postmortal]
+[00:19:31] [Server thread/INFO]: Santito was killed by Evoker using magic
+[00:19:49] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:19:56] [Server thread/INFO]: TuTaRdrgZ was slain by Ravager
+[00:20:08] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:20:46] [Server thread/INFO]: TuTaRdrgZ was slain by Vex
+[00:20:47] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 4.532205427195066,-8.0,17.304433683818047
+[00:20:47] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 4.532205427195066,-8.0,17.304433683818047
+[00:20:47] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 4.532205427195066,-8.0,17.304433683818047
+[00:21:04] [Server thread/INFO]: TuTaRdrgZ was slain by Ravager
+[00:21:05] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 7.467075296821264,-6.0,14.89854454941542
+[00:21:05] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 7.467075296821264,-6.0,14.89854454941542
+[00:21:05] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 7.467075296821264,-6.0,14.89854454941542
+[00:21:05] [Server thread/INFO]: geo4ghe8[/37.223.120.125:54191] logged in with entity id 47092 at (166.52259416102672, 63.0, 122.17361399996416)
+[00:21:05] [Server thread/INFO]: geo4ghe8 joined the game
+[00:21:10] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:21:19] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:21:27] [Server thread/INFO]: geo4ghe8 was doomed to fall by Vindicator
+[00:21:36] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:21:38] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 52.087874827630486,4.0625,20.914921668092205
+[00:21:38] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 52.087874827630486,4.0625,20.914921668092205
+[00:21:38] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 52.087874827630486,4.0625,20.914921668092205
+[00:21:38] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 52.087874827630486,4.0625,20.914921668092205
+[00:22:11] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:22:27] [Server thread/INFO]: TuTaRdrgZ was slain by Vindicator
+[00:22:28] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 57.468201296237,5.0,31.88027544978739
+[00:22:28] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 57.468201296237,5.0,31.88027544978739
+[00:22:28] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 57.468201296237,5.0,31.88027544978739
+[00:22:28] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 57.468201296237,5.0,31.88027544978739
+[00:22:28] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 57.468201296237,5.0,31.88027544978739
+[00:22:28] [Server thread/WARN]: TuTaRdrgZ moved too quickly! 57.468201296237,5.0,31.88027544978739
+[00:22:29] [Server thread/INFO]: TuTaRdrgZ lost connection: Disconnected
+[00:22:29] [Server thread/INFO]: TuTaRdrgZ left the game
+[00:22:32] [Server thread/INFO]: geo4ghe8 was killed by Evoker using magic
+[00:22:42] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:22:47] [Server thread/INFO]: /advancement (grant|revoke)
+[00:22:47] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:22:47] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[00:22:47] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:22:47] [Server thread/INFO]: /clear [<targets>]
+[00:22:47] [Server thread/INFO]: /clone (<begin>|from)
+[00:22:47] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[00:22:47] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:22:47] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:22:47] [Server thread/INFO]: /debug (start|stop|function)
+[00:22:47] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:22:47] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:22:47] [Server thread/INFO]: /effect (clear|give)
+[00:22:47] [Server thread/INFO]: /me <action>
+[00:22:47] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:22:47] [Server thread/INFO]: /experience (add|set|query)
+[00:22:47] [Server thread/INFO]: /xp -> experience
+[00:22:47] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:22:47] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:22:47] [Server thread/INFO]: /forceload (add|remove|query)
+[00:22:47] [Server thread/INFO]: /function <name> [<arguments>|with]
+[00:22:47] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:22:47] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:22:47] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:22:47] [Server thread/INFO]: /help [<command>]
+[00:22:47] [Server thread/INFO]: /item (replace|modify)
+[00:22:47] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:22:47] [Server thread/INFO]: /kill [<targets>]
+[00:22:47] [Server thread/INFO]: /list [uuids]
+[00:22:47] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:22:47] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:22:47] [Server thread/INFO]: /msg <targets> <message>
+[00:22:47] [Server thread/INFO]: /tell -> msg
+[00:22:47] [Server thread/INFO]: /w -> msg
+[00:22:47] [Server thread/INFO]: /particle <name> [<pos>]
+[00:22:47] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:22:47] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[00:22:47] [Server thread/INFO]: /random (value|roll|reset)
+[00:22:47] [Server thread/INFO]: /reload
+[00:22:47] [Server thread/INFO]: /recipe (give|take)
+[00:22:47] [Server thread/INFO]: /return (<value>|fail|run)
+[00:22:47] [Server thread/INFO]: /ride <target> (mount|dismount)
+[00:22:47] [Server thread/INFO]: /say <message>
+[00:22:47] [Server thread/INFO]: /schedule (function|clear)
+[00:22:47] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:22:47] [Server thread/INFO]: /seed
+[00:22:47] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:22:47] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:22:47] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:22:47] [Server thread/INFO]: /spectate [<target>]
+[00:22:47] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:22:47] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:22:47] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:22:47] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:22:47] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:22:47] [Server thread/INFO]: /teammsg <message>
+[00:22:47] [Server thread/INFO]: /tm -> teammsg
+[00:22:47] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:22:47] [Server thread/INFO]: /tp -> teleport
+[00:22:47] [Server thread/INFO]: /tellraw <targets> <message>
+[00:22:47] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[00:22:47] [Server thread/INFO]: /time (set|add|query)
+[00:22:47] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:22:47] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:22:47] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:22:47] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:22:47] [Server thread/INFO]: /jfr (start|stop)
+[00:22:47] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:22:47] [Server thread/INFO]: /banlist [ips|players]
+[00:22:47] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:22:47] [Server thread/INFO]: /deop <targets>
+[00:22:47] [Server thread/INFO]: /op <targets>
+[00:22:47] [Server thread/INFO]: /pardon <targets>
+[00:22:47] [Server thread/INFO]: /pardon-ip <target>
+[00:22:47] [Server thread/INFO]: /perf (start|stop)
+[00:22:47] [Server thread/INFO]: /save-all [flush]
+[00:22:47] [Server thread/INFO]: /save-off
+[00:22:47] [Server thread/INFO]: /save-on
+[00:22:47] [Server thread/INFO]: /setidletimeout <minutes>
+[00:22:47] [Server thread/INFO]: /stop
+[00:22:47] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:22:49] [Server thread/INFO]: geo4ghe8 was slain by Vindicator
+[00:22:58] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:23:06] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:23:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:23:10] [Server thread/INFO]: elel el server va a cerrar<--[HERE]
+[00:23:12] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:23:13] [Server thread/INFO]: /advancement (grant|revoke)
+[00:23:13] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:23:13] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[00:23:13] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:23:13] [Server thread/INFO]: /clear [<targets>]
+[00:23:13] [Server thread/INFO]: /clone (<begin>|from)
+[00:23:13] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[00:23:13] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:23:13] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:23:13] [Server thread/INFO]: /debug (start|stop|function)
+[00:23:13] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:23:13] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:23:13] [Server thread/INFO]: /effect (clear|give)
+[00:23:13] [Server thread/INFO]: /me <action>
+[00:23:13] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:23:13] [Server thread/INFO]: /experience (add|set|query)
+[00:23:13] [Server thread/INFO]: /xp -> experience
+[00:23:13] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:23:13] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:23:13] [Server thread/INFO]: /forceload (add|remove|query)
+[00:23:13] [Server thread/INFO]: /function <name> [<arguments>|with]
+[00:23:13] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:23:13] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:23:13] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:23:13] [Server thread/INFO]: /help [<command>]
+[00:23:13] [Server thread/INFO]: /item (replace|modify)
+[00:23:13] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:23:13] [Server thread/INFO]: /kill [<targets>]
+[00:23:13] [Server thread/INFO]: /list [uuids]
+[00:23:13] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:23:13] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:23:13] [Server thread/INFO]: /msg <targets> <message>
+[00:23:13] [Server thread/INFO]: /tell -> msg
+[00:23:13] [Server thread/INFO]: /w -> msg
+[00:23:13] [Server thread/INFO]: /particle <name> [<pos>]
+[00:23:13] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:23:13] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[00:23:13] [Server thread/INFO]: /random (value|roll|reset)
+[00:23:13] [Server thread/INFO]: /reload
+[00:23:13] [Server thread/INFO]: /recipe (give|take)
+[00:23:13] [Server thread/INFO]: /return (<value>|fail|run)
+[00:23:13] [Server thread/INFO]: /ride <target> (mount|dismount)
+[00:23:13] [Server thread/INFO]: /say <message>
+[00:23:13] [Server thread/INFO]: /schedule (function|clear)
+[00:23:13] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:23:13] [Server thread/INFO]: /seed
+[00:23:13] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:23:13] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:23:13] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:23:13] [Server thread/INFO]: /spectate [<target>]
+[00:23:13] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:23:13] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:23:13] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:23:13] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:23:13] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:23:13] [Server thread/INFO]: /teammsg <message>
+[00:23:13] [Server thread/INFO]: /tm -> teammsg
+[00:23:13] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:23:13] [Server thread/INFO]: /tp -> teleport
+[00:23:13] [Server thread/INFO]: /tellraw <targets> <message>
+[00:23:13] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[00:23:13] [Server thread/INFO]: /time (set|add|query)
+[00:23:13] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:23:13] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:23:13] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:23:13] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:23:13] [Server thread/INFO]: /jfr (start|stop)
+[00:23:13] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:23:13] [Server thread/INFO]: /banlist [ips|players]
+[00:23:13] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:23:13] [Server thread/INFO]: /deop <targets>
+[00:23:13] [Server thread/INFO]: /op <targets>
+[00:23:13] [Server thread/INFO]: /pardon <targets>
+[00:23:13] [Server thread/INFO]: /pardon-ip <target>
+[00:23:13] [Server thread/INFO]: /perf (start|stop)
+[00:23:13] [Server thread/INFO]: /save-all [flush]
+[00:23:13] [Server thread/INFO]: /save-off
+[00:23:13] [Server thread/INFO]: /save-on
+[00:23:13] [Server thread/INFO]: /setidletimeout <minutes>
+[00:23:13] [Server thread/INFO]: /stop
+[00:23:13] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:23:18] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:23:24] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:23:33] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:23:38] [Server thread/INFO]: Incorrect argument for command
+[00:23:38] [Server thread/INFO]: title @a el server va a cerrar<--[HERE]
+[00:23:40] [Server thread/INFO]: geo4ghe8 has reached the goal [Postmortal]
+[00:23:40] [Server thread/INFO]: geo4ghe8 was slain by Vex
+[00:23:41] [Server thread/INFO]: Santito lost connection: Disconnected
+[00:23:41] [Server thread/INFO]: Santito left the game
+[00:23:46] [Server thread/INFO]: /advancement (grant|revoke)
+[00:23:46] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:23:46] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[00:23:46] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:23:46] [Server thread/INFO]: /clear [<targets>]
+[00:23:46] [Server thread/INFO]: /clone (<begin>|from)
+[00:23:46] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[00:23:46] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:23:46] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:23:46] [Server thread/INFO]: /debug (start|stop|function)
+[00:23:46] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:23:46] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:23:46] [Server thread/INFO]: /effect (clear|give)
+[00:23:46] [Server thread/INFO]: /me <action>
+[00:23:46] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:23:46] [Server thread/INFO]: /experience (add|set|query)
+[00:23:46] [Server thread/INFO]: /xp -> experience
+[00:23:46] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:23:46] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:23:46] [Server thread/INFO]: /forceload (add|remove|query)
+[00:23:46] [Server thread/INFO]: /function <name> [<arguments>|with]
+[00:23:46] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:23:46] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:23:46] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:23:46] [Server thread/INFO]: /help [<command>]
+[00:23:46] [Server thread/INFO]: /item (replace|modify)
+[00:23:46] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:23:46] [Server thread/INFO]: /kill [<targets>]
+[00:23:46] [Server thread/INFO]: /list [uuids]
+[00:23:46] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:23:46] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:23:46] [Server thread/INFO]: /msg <targets> <message>
+[00:23:46] [Server thread/INFO]: /tell -> msg
+[00:23:46] [Server thread/INFO]: /w -> msg
+[00:23:46] [Server thread/INFO]: /particle <name> [<pos>]
+[00:23:46] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:23:46] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[00:23:46] [Server thread/INFO]: /random (value|roll|reset)
+[00:23:46] [Server thread/INFO]: /reload
+[00:23:46] [Server thread/INFO]: /recipe (give|take)
+[00:23:46] [Server thread/INFO]: /return (<value>|fail|run)
+[00:23:46] [Server thread/INFO]: /ride <target> (mount|dismount)
+[00:23:46] [Server thread/INFO]: /say <message>
+[00:23:46] [Server thread/INFO]: /schedule (function|clear)
+[00:23:46] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:23:46] [Server thread/INFO]: /seed
+[00:23:46] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:23:46] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:23:46] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:23:46] [Server thread/INFO]: /spectate [<target>]
+[00:23:46] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:23:46] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:23:46] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:23:46] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:23:46] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:23:46] [Server thread/INFO]: /teammsg <message>
+[00:23:46] [Server thread/INFO]: /tm -> teammsg
+[00:23:46] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:23:46] [Server thread/INFO]: /tp -> teleport
+[00:23:46] [Server thread/INFO]: /tellraw <targets> <message>
+[00:23:46] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[00:23:46] [Server thread/INFO]: /time (set|add|query)
+[00:23:46] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:23:46] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:23:46] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:23:46] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:23:46] [Server thread/INFO]: /jfr (start|stop)
+[00:23:46] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:23:46] [Server thread/INFO]: /banlist [ips|players]
+[00:23:46] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:23:46] [Server thread/INFO]: /deop <targets>
+[00:23:46] [Server thread/INFO]: /op <targets>
+[00:23:46] [Server thread/INFO]: /pardon <targets>
+[00:23:46] [Server thread/INFO]: /pardon-ip <target>
+[00:23:46] [Server thread/INFO]: /perf (start|stop)
+[00:23:46] [Server thread/INFO]: /save-all [flush]
+[00:23:46] [Server thread/INFO]: /save-off
+[00:23:46] [Server thread/INFO]: /save-on
+[00:23:46] [Server thread/INFO]: /setidletimeout <minutes>
+[00:23:46] [Server thread/INFO]: /stop
+[00:23:46] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:23:56] [Server thread/INFO]: No player was found
+[00:24:01] [Server thread/INFO]: geo4ghe8 was shot by Pillager
+[00:24:03] [Server thread/INFO]: Stopping the server
+[00:24:03] [Server thread/INFO]: Stopping server
+[00:24:03] [Server thread/INFO]: Saving players
+[00:24:03] [Server thread/INFO]: Saving worlds
+[00:24:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:24:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:24:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:24:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:24:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:24:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:24:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
